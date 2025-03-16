@@ -12,7 +12,7 @@ let showingTerm = true;
 
 // Start with this function to simply display the card
 function displayCard() {
-
+    
 }
 
 // The rest of the code you will write is apart of event listeners
